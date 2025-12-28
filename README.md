@@ -84,7 +84,7 @@ This dashboard helps HR teams:
 Below is a snapshot of the **HR Attrition Analytics Dashboard** created using Power BI.  
 The dashboard provides a comprehensive overview of employee attrition trends, key KPIs, and workforce insights through interactive and visually appealing charts.
 
-![HR Attrition Dashboard Preview](screenshots/dashboard_preview.png)
+![HR Attrition Dashboard Preview](screenshorts/dashboard_preview.png)
 
 ---
 
