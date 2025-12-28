@@ -85,6 +85,7 @@ Below is a snapshot of the **HR Attrition Analytics Dashboard** created using Po
 The dashboard provides a comprehensive overview of employee attrition trends, key KPIs, and workforce insights through interactive and visually appealing charts.
 
 ![HR Attrition Dashboard Preview](screenshots/dashboard_preview.png)
+
 ---
 
 ## 📁 Project Structure
